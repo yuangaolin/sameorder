@@ -1,0 +1,55 @@
+>CM055446.2 Gorilla gorilla gorilla isolate KB3781 chromosome 1, whole genome shotgun sequence
+>CM068950.1 Gorilla gorilla gorilla isolate KB3781 chromosome 2, whole genome shotgun sequence
+>CM055449.2 Gorilla gorilla gorilla isolate KB3781 chromosome 3, whole genome shotgun sequence
+>CM055450.2 Gorilla gorilla gorilla isolate KB3781 chromosome 4, whole genome shotgun sequence
+>CM055451.2 Gorilla gorilla gorilla isolate KB3781 chromosome 5, whole genome shotgun sequence
+>CM055452.2 Gorilla gorilla gorilla isolate KB3781 chromosome 6, whole genome shotgun sequence
+>CM055453.2 Gorilla gorilla gorilla isolate KB3781 chromosome 7, whole genome shotgun sequence
+>CM055454.2 Gorilla gorilla gorilla isolate KB3781 chromosome 8, whole genome shotgun sequence
+>CM055455.2 Gorilla gorilla gorilla isolate KB3781 chromosome 9, whole genome shotgun sequence
+>CM055456.2 Gorilla gorilla gorilla isolate KB3781 chromosome 10, whole genome shotgun sequence
+>CM055457.2 Gorilla gorilla gorilla isolate KB3781 chromosome 11, whole genome shotgun sequence
+>CM055458.2 Gorilla gorilla gorilla isolate KB3781 chromosome 12, whole genome shotgun sequence
+>CM055459.2 Gorilla gorilla gorilla isolate KB3781 chromosome 13, whole genome shotgun sequence
+>CM055460.2 Gorilla gorilla gorilla isolate KB3781 chromosome 14, whole genome shotgun sequence
+>CM055461.2 Gorilla gorilla gorilla isolate KB3781 chromosome 15, whole genome shotgun sequence
+>CM055462.2 Gorilla gorilla gorilla isolate KB3781 chromosome 16, whole genome shotgun sequence
+>CM055463.2 Gorilla gorilla gorilla isolate KB3781 chromosome 17, whole genome shotgun sequence
+>CM055464.2 Gorilla gorilla gorilla isolate KB3781 chromosome 18, whole genome shotgun sequence
+>CM055465.2 Gorilla gorilla gorilla isolate KB3781 chromosome 19, whole genome shotgun sequence
+>CM055466.2 Gorilla gorilla gorilla isolate KB3781 chromosome 20, whole genome shotgun sequence
+>CM055467.2 Gorilla gorilla gorilla isolate KB3781 chromosome 21, whole genome shotgun sequence
+>CM055468.2 Gorilla gorilla gorilla isolate KB3781 chromosome 22, whole genome shotgun sequence
+>CM068951.1 Gorilla gorilla gorilla isolate KB3781 chromosome 23, whole genome shotgun sequence
+>CM055469.2 Gorilla gorilla gorilla isolate KB3781 chromosome X, whole genome shotgun sequence
+>CM055470.2 Gorilla gorilla gorilla isolate KB3781 chromosome Y, whole genome shotgun sequence
+>CM082747.1 Gorilla gorilla gorilla mitochondrion, complete sequence, whole genome shotgun sequence
+>CP068277.2 Homo sapiens isolate CHM13 chromosome 1
+>CP068276.2 Homo sapiens isolate CHM13 chromosome 2
+>CP068275.2 Homo sapiens isolate CHM13 chromosome 3
+>CP068274.2 Homo sapiens isolate CHM13 chromosome 4
+>CP068273.2 Homo sapiens isolate CHM13 chromosome 5
+>CP068272.2 Homo sapiens isolate CHM13 chromosome 6
+>CP068271.2 Homo sapiens isolate CHM13 chromosome 7
+>CP068270.2 Homo sapiens isolate CHM13 chromosome 8
+>CP068269.2 Homo sapiens isolate CHM13 chromosome 9
+>CP068268.2 Homo sapiens isolate CHM13 chromosome 10
+>CP068267.2 Homo sapiens isolate CHM13 chromosome 11
+>CP068266.2 Homo sapiens isolate CHM13 chromosome 12
+>CP068265.2 Homo sapiens isolate CHM13 chromosome 13
+>CP068264.2 Homo sapiens isolate CHM13 chromosome 14
+>CP068263.2 Homo sapiens isolate CHM13 chromosome 15
+>CP068262.2 Homo sapiens isolate CHM13 chromosome 16
+>CP068261.2 Homo sapiens isolate CHM13 chromosome 17
+>CP068260.2 Homo sapiens isolate CHM13 chromosome 18
+>CP068259.2 Homo sapiens isolate CHM13 chromosome 19
+>CP068258.2 Homo sapiens isolate CHM13 chromosome 20
+>CP068257.2 Homo sapiens isolate CHM13 chromosome 21
+>CP068256.2 Homo sapiens isolate CHM13 chromosome 22
+>CP068255.2 Homo sapiens isolate CHM13 chromosome X
+>CP086569.2 Homo sapiens isolate NA24385 chromosome Y
+>CP068254.1 Homo sapiens isolate CHM13 mitochondrion, complete genome
+GenomeSize:  6.663142701E9    segNum: 51
+CRlength:  -1928791891    CR/Genome: -0.2894717969510886
+Nlength:  2000000    N/Genome: 3.0015866232308686E-4
+(CR+N)/Genome: -0.2891716382887655
